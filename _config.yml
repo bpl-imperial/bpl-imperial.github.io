@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Cellular Control Lab @ Imperial College London
+title: Cellular Control Lab 
 email:
-description:
+description: @Imperial College London
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Ravinash Krishna Kumar
   twitter: ravinash_kk
-  picture: /assets/images/amine-ounnas-180287.jpg
+  picture: /assets/images/johndoe.png
 twitter_username:
 github_username:
 logo: # path of site logo, e.g. "/assets/images/logo.png"
