@@ -1,8 +1,8 @@
 ---
-title: Recipes
+title: Team
 layout: collection
-permalink: /recipes/
-collection: recipes
+permalink: /team/
+collection: team
 entries_layout: grid
 ---
 
