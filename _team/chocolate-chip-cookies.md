@@ -1,12 +1,12 @@
 ---
 title: "Dr Ravinash Krishna Kumar"
 image: 
-  path: /assets/images/chocolate-chip-cookies-lg.jpg
-  thumbnail: /assets/images/chocolate-chip-cookies-400x200.jpg
+  path: /assets/images/rkk.jpg
+  thumbnail: /assets/images/rkk-400x200.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-**Group Leader, EPSRC Open Fellow and Lecturer (Assistant Professor) in Synthetic Biology** 
+**Group Leader**, EPSRC Open Fellow and Lecturer (Assistant Professor) in Synthetic Biology
 
 The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
 
