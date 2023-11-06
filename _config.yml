@@ -89,6 +89,9 @@ defaults:
     values:
       layout: post
       read_time: true
- 
-
-    
+  # _recipes
+  - scope:
+      path: "_team"
+      type: team
+    values:
+      layout: post
