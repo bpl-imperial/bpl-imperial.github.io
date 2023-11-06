@@ -5,7 +5,7 @@ alt_title: "Cellular Control Lab"
 sub_title: "Imperial College London"
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
-  We are a new research group based in the [Section of Structural and Synthetic Biology](https://www.imperial.ac.uk/infectious-disease/research/structural-bio/) in the [Department of Infectious Disease](https://www.imperial.ac.uk/infectious-disease/) at **Imperial Colleg London**. Our group uses 3D printing and fluidic technologies to:
+  We are a new research group based in the [Section of Structural and Synthetic Biology](https://www.imperial.ac.uk/infectious-disease/research/structural-bio/) in the [Department of Infectious Disease](https://www.imperial.ac.uk/infectious-disease/) at **Imperial College London**. Our group uses 3D printing and fluidic technologies to:
   - Build new microbiome models for understanding host-microbial community relationship
   - Build synthetic tissues for controlling living tissues
   - Build new engineered living materials. 
