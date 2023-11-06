@@ -1,22 +1,14 @@
 ---
 layout: home
 paginate: true
-alt_title: "Basically Basic"
-sub_title: "Your new default Jekyll theme"
+alt_title: "Cellular Control Lab"
+sub_title: "Imperial College London"
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
-  Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+  We are a new research group based at the The Section of Structural and Synthetic Biolody in the Department of Infectious Disease at Imperial Colleg London.Our group uses 3D printing and fluidic technologies to:
+  - Build new microbiome models for understanding host-microbial community relationship
+  - Build synthetic tissues for controlling living tissues
+  - Build new engineered living materials. 
 
-  - Clean responsive design with six customizable skins
-  - Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-  - About page layout
-  - Disqus Comments and Google Analytics support
-  - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
-actions:
-  - label: "Get Started"
-    icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
-    icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+  Our group is highly interdisciplinary and spans 3D printing, method development, materials science, microbiology/cell biology, ecology, and modelling.
 ---
