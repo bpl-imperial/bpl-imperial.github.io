@@ -76,7 +76,7 @@ exclude:
 
 # Collections
 collections:
-  tea,:
+  team:
     output: true
     permalink: /:collection/:path/
 
