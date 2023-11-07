@@ -5,9 +5,9 @@ title: Publications
 
 ### Preprint
 
-**[A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease](https://doi.org/10.1101/2023.07.15.549155)**
-Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **Ravinash Krishna Kumar**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley<br>
-bioRxiv, 2023.07.15.549155, (2023)
+**[A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease](https://doi.org/10.1101/2023.07.15.549155 target="_blank")**
+Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **<u>Ravinash Krishna Kumar</u>**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley<br>
+bioRxiv, 2023.07.15.549155, (2023)<br>
 <a href="/assets/papers/2023.07.15.549155v1.full.pdf" download>
   <img src="/assets/images/pdf.svg" width="30" height="30">
 </a>
@@ -22,37 +22,16 @@ bioRxiv, 2023.07.15.549155, (2023)
 
 <img src ="/assets/images/2023_microb.jpeg">
 
-{:.paper}
-<span>The m6A RNA demethylase FTO is a HIF-independent synthetic lethal partner with the VHL tumor suppressor</span>{:.papertitle}  
-<span>Yiren Xiao, Kaushik N Thakkar, Hongjuan Zhao, James Broughton, Yang Li, **Jose A Seoane**, Anh N Diep, Thomas J Metzner, Rie von Eyben, David L Dill, James D Brooks, Christina Curtis, John T Leppert, Jiangbin Ye, Donna M Peehl, Amato J Giaccia, Subarna Sinha, Erinn B Rankin</span>{:.authors}<br>
-<span>_Proceedings of the National Academy of Sciences_, 117(35):21441-21449, Sep. 2020</span>{:.journal}  
-<span>**URL:**[www.pnas.org/content/117/35/21441.short](https://www.pnas.org/content/117/35/21441.short)</span>{:.doi}
+### 2022
 
-{:.paper}
-<span>CRISPR screens in cancer spheroids identify 3D growth-specific vulnerabilities</span>{:.papertitle}  
-<span>Kyuho Han, Sarah E Pierce, Amy Li, Kaitlyn Spees, Grace R Anderson, **Jose A Seoane**, Yuan-Hung Lo, Michael Dubreuil, Micah Olivas, Roarke A Kamber, Michael Wainberg, Kaja Kostyrko, Marcus R Kelly, Maryam Yousefi, Scott W Simpkins, David Yao, Keonil Lee, Calvin J Kuo, Peter K Jackson, Alejandro Sweet-Cordero, Anshul Kundaje, Andrew J Gentles, Christina Curtis, Monte M Winslow, Michael C Bassik</span>{:.authors}<br>
-<span>_Nature_, 580(7801):136-141, April. 2020</span>{:.journal}  
-<span>**URL:**[www.nature.com/articles/s41586-020-2099-x](https://www.nature.com/articles/s41586-020-2099-x)</span>{:.doi}
+**[Modular Synthetic Tissues from 3D-Printed Building Blocks](https://doi.org/10.1002/adfm.202107773)**<br>
+Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **<u>Ravinash Krishna Kumar</u>**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley<br>
+bioRxiv, 2023.07.15.549155, (2023)
+<a href="/assets/papers/2023.07.15.549155v1.full.pdf" download>
+  <img src="/assets/images/pdf.svg" width="30" height="30">
+</a>
 
-{:.paper}
-<span>Metabolic profiling reveals a dependency of human metastatic breast cancer on mitochondrial serine and one-carbon unit metabolism</span>{:.papertitle}  
-<span>Albert M Li, Gregory S Ducker, Yang Li, **Jose A Seoane**, Yiren Xiao, Stavros Melemenidis, Yiren Zhou, Ling Liu, Sakari Vanharanta, Edward E Graves, Erinn B Rankin, Christina Curtis, Joan Massagué, Joshua D Rabinowitz, Craig B Thompson, Jiangbin Ye</span>{:.authors}<br>
-<span>_Molecular Cancer Research_, 18(4):599-611, April. 2020</span>{:.journal}  
-<span>**URL:**[mcr.aacrjournals.org/content/18/4/599.abstract](https://mcr.aacrjournals.org/content/18/4/599.abstract)</span>{:.doi}
-
-{:.paper}
-<span>Convergent mutations in tissue-specific regulatory regions reveal novel cancer drivers</span>{:.papertitle}  
-<span>Nasa Sinnott-Armstrong, **Jose A Seoane**, Jonathan K Pritchard, Christina Curtis, Michael P Snyder</span>{:.authors}<br>
-<span>_BioRxiv_,  Nov. 2020</span>{:.journal}  
-<span>**URL:**[https://www.biorxiv.org/content/10.1101/2020.08.21.239954v1.abstract](https://www.biorxiv.org/content/10.1101/2020.08.21.239954v1.abstract)</span>{:.doi}
-
-### 2019
-
-{:.paper}
-<span>Chromatin regulators mediate anthracycline sensitivity in breast cancer</span>{:.papertitle}  
-<span>**Jose A Seoane**, Jacob G Kirkland, Jennifer L Caswell-Jin, Gerald R Crabtree, Christina Curtis</span>{:.authors}<br>
-<span>_Nature medicine_, 25(11):1721-1727, Nov. 2019</span>{:.journal}  
-<span>**URL:**[www.nature.com/articles/s41591-019-0638-5](https://www.nature.com/articles/s41591-019-0638-5)</span>{:.doi}
+<img src ="/assets/images/2023_sonia.png">
 
 {:.paper}
 <span>Quantitative evidence for early metastatic seeding in colorectal cancer</span>{:.papertitle}  
