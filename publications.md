@@ -9,13 +9,15 @@ title: Publications
 Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **Ravinash Krishna Kumar**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley<br>
 bioRxiv, 2023.07.15.549155, (2023)
 
+<a href="/assests/papers/2023.07.15.549155v1.full.pdf" download='PDF'>
+
 [PDF](/assests/papers/2023.07.15.549155v1.full.pdf)
 
 <img src ="/assets/images/2023_sonia.png">
 
 ### 2023
 
-**[3D printing of microbial communities: A new platform for understanding and engineering microbiomes](https://doi.org/10.1111/1751-7915.14168)**
+**[3D printing of microbial communities: A new platform for understanding and engineering microbiomes](https://doi.org/10.1111/1751-7915.14168)**<br>
 **Ravinash Krishna Kumar**, Kevin R. Foster<br>
 **Microbial Biotechnology**, 16, 489, (2032)
 
