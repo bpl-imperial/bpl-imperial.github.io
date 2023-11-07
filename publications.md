@@ -10,7 +10,7 @@ Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra
 bioRxiv, 2023.07.15.549155, (2023)
 
 <a href="/assets/papers/2023.07.15.549155v1.full.pdf" download>
-  <img src="/assets/images/pdf.svg" idth="16" height="16">
+  <img src="/assets/images/pdf.svg" width="16" height="16">
 </a>
 
 <img src ="/assets/images/2023_sonia.png">
