@@ -11,7 +11,7 @@ title: Publications
 {:.paper}
 <span>**A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease**</span>{:.papertitle}  
 <span>Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **Ravinash Krishna Kumar**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley</span>{:.authors}<br>
-<span>_bioRxiv _, 2023.07.15.549155, 2023 </span>{:.journal}  
+<span>_bioRxiv _, 2023.07.15.549155, (2023) </span>{:.journal}  
 <span>**URL:**[https://doi.org/10.1101/2023.07.15.549155](https://doi.org/10.1101/2023.07.15.549155)</span>{:.doi}
 label: "Get Started"
     icon: github
@@ -23,9 +23,9 @@ label: "Get Started"
 ### 2023
 
 {:.paper}
-<span>Zmat3 Is a Key Splicing Regulator in the p53 Tumor Suppression Program</span>{:.papertitle}  
-<span>Kathryn T Bieging-Rolett, Alyssa M Kaiser, David W Morgens, Anthony M Boutelle, **Jose A Seoane**, Eric L Van Nostrand, Changyu Zhu, Shauna L Houlihan, Stephano S Mello, Brian A Yee, Jacob McClendon, Sarah E Pierce, Ian P Winters, Mengxiong Wang, Andrew J Connolly, Scott W Lowe, Christina Curtis, Gene W Yeo, Monte M Winslow, Michael C Bassik, Laura D Attardi</span>{:.authors}<br>
-<span>_Molecular Cell_, 80(3):452-469.e9 ,, Nov. 2020</span>{:.journal}  
+<span>**3D printing of microbial communities: A new platform for understanding and engineering microbiomes**</span>{:.papertitle}  
+<span>**Ravinash Krishna Kumar**, Kevin R. Foster</span>{:.authors}<br>
+<span>Microbial Biotechnology, 16, 489, (2032)</span>{:.journal}  
 <span>**URL:**[www.sciencedirect.com/science/article/pii/S1097276520307292](https://www.sciencedirect.com/science/article/pii/S1097276520307292)</span>{:.doi}
 
 {:.paper}
