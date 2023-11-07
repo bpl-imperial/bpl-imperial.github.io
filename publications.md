@@ -3,9 +3,6 @@ layout: page
 title: Publications
 ---
 
-[//]:# Selected Publications
-[//]:# ---
-
 ### Preprint
 
 {:.paper}
