@@ -2,6 +2,14 @@
 layout: home
 title: Publications
 
+### 2023
+
+{:.paper}
+<span>**3D printing of microbial communities: A new platform for understanding and engineering microbiomes**</span>{:.papertitle}  
+<span>**Ravinash Krishna Kumar**, Kevin R. Foster</span>{:.authors}<br>
+<span>Microbial Biotechnology, 16, 489, (2032)</span>{:.journal}  
+<span>**URL:**[www.sciencedirect.com/science/article/pii/S1097276520307292](https://www.sciencedirect.com/science/article/pii/S1097276520307292)</span>{:.doi}
+
 actions:
   - label: "Get Started"
     icon: github
@@ -15,13 +23,7 @@ actions:
 
 
 
-### 2023
 
-{:.paper}
-<span>**3D printing of microbial communities: A new platform for understanding and engineering microbiomes**</span>{:.papertitle}  
-<span>**Ravinash Krishna Kumar**, Kevin R. Foster</span>{:.authors}<br>
-<span>Microbial Biotechnology, 16, 489, (2032)</span>{:.journal}  
-<span>**URL:**[www.sciencedirect.com/science/article/pii/S1097276520307292](https://www.sciencedirect.com/science/article/pii/S1097276520307292)</span>{:.doi}
 
 {:.paper}
 <span>The m6A RNA demethylase FTO is a HIF-independent synthetic lethal partner with the VHL tumor suppressor</span>{:.papertitle}  
