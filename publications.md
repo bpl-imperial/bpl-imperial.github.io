@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Publications
+---
 
 ### 2023
 
@@ -9,7 +10,7 @@ title: Publications
 <span>**Ravinash Krishna Kumar**, Kevin R. Foster</span>{:.authors}<br>
 <span>Microbial Biotechnology, 16, 489, (2032)</span>{:.journal}  
 <span>**URL:**[www.sciencedirect.com/science/article/pii/S1097276520307292](https://www.sciencedirect.com/science/article/pii/S1097276520307292)</span>{:.doi}
-
+___
 actions:
   - label: "Get Started"
     icon: github
@@ -17,9 +18,7 @@ actions:
   - label: "Download"
     icon: download
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
----
-
-
+___
 
 
 
