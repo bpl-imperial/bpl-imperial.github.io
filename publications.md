@@ -17,13 +17,21 @@ bioRxiv, 2023.07.15.549155, (2023)<br>
 
 ***
 
+
 ### 2023
 
-**[3D printing of microbial communities: A new platform for understanding and engineering microbiomes](https://doi.org/10.1111/1751-7915.14168)**<br>
-**Ravinash Krishna Kumar**, Kevin R. Foster<br>
-**Microbial Biotechnology**, 16, 489, (2032)
+**[3D printing of microbial communities: A new platform for understanding and engineering microbiomes](https://doi.org/10.1111/1751-7915.14168){:target="_blank"}**<br>
+**<u>Ravinash Krishna Kumar</u>**, Kevin R. Foster<br>
+**Microbial Biotechnology**, 16, 489, (2023)
+
+<a href="/assets/papers/Krishna Kumar and Foster - 2023 - 3D printing of microbial communities A new platfo.pdf" download>
+  <img src="/assets/images/pdf.svg" width="30" height="30">
+</a>
 
 <img src ="/assets/images/2023_microb.jpeg">
+
+***
+
 
 ### 2022
 
