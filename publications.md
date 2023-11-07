@@ -9,32 +9,18 @@ title: Publications
 ### Preprint
 
 {:.paper}
-<span>A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease</span>{:.papertitle}  
+<span>**A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease**</span>{:.papertitle}  
 <span>Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **Ravinash Krishna Kumar**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley</span>{:.authors}<br>
 <span>_bioRxiv _, 2023.07.15.549155, 2023 </span>{:.journal}  
 <span>**URL:**[https://doi.org/10.1101/2023.07.15.549155](https://doi.org/10.1101/2023.07.15.549155)</span>{:.doi}
+label: "Get Started"
+    icon: github
+    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+  - label: "Download"
+    icon: download
+    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
 
-{:.paper}
-<span>The AMBRA1 E3 ligase adaptor regulates the stability of cyclin D</span>{:.papertitle}  
-<span>Andrea C Chaikovsky, Chuan Li, Edwin E Jeng, Samuel Loebell, Myung Chang Lee, Christopher W Murray, Ran Cheng, Janos Demeter, Danielle L Swaney, Si-Han Chen, Billy W Newton, Jeffrey R Johnson, Alexandros P Drainas, Yan Ting Shue, **Jose A Seoane**, Preethi Srinivasan, Andy He, Akihiro Yoshida, Susan Q Hipkins, Edel McCrea, Carson D Poltorack, Nevan J Krogan, J Alan Diehl, Christina Kong, Peter K Jackson, Christina Curtis, Dmitri A Petrov, Michael C Bassik, Monte M Winslow, Julien Sage</span>{:.authors}<br>
-<span>_Nature_, 592:794-798 ,, Apr. 2021</span>{:.journal}  
-<span>**URL:**[https://www.nature.com/articles/s41586-021-03474-7](https://www.nature.com/articles/s41586-021-03474-7)</span>{:.doi}
-
-{:.paper}
-<span>Cell of Origin Influences Pancreatic Cancer Subtype</span>{:.papertitle}  
-<span>Brittany M Flowers, Hang Xu, Abigail S Mulligan, Kathryn J Hanson, **Jose A Seoane**, Hannes Vogel, Christina Curtis, Laura D Wood, Laura D Attardi</span>{:.authors}<br>
-<span>_Cancer Discovery_, 11(3):660-677 ,, March. 2021</span>{:.journal}  
-<span>**URL:**[https://cancerdiscovery.aacrjournals.org/content/11/3/660.abstract](https://cancerdiscovery.aacrjournals.org/content/11/3/660.abstract)</span>{:.doi}
-
-{:.paper}
-<span>A CRISPR/Cas9-engineered ARID1A-deficient human gastric cancer organoid model reveals essential and non-essential modes of oncogenic transformation</span>{:.papertitle}  
-<span>Yuan-Hung Lo, Kevin S Kolahi, Yuhong Du, Chiung-Ying Chang, Andrey Krokhotin, Ajay Nair, Walter D Sobba, Kasper Karlsson, Sunny J Jones, Teri A Longacre, Amanda T Mah, Bahar Tercan, Alexandra Sockell, Hang Xu, **Jose A Seoane**, Jin Chen, Ilya Shmulevich, Jonathan S Weissman, Christina Curtis, Andrea Califano, Haian Fu, Gerald R Crabtree, Calvin J Kuo</span>{:.authors}<br>
-<span>_Cancer Discovery_, Jan. 2021</span>{:.journal}  
-<span>**URL:**[https://cancerdiscovery.aacrjournals.org/content/early/2021/01/14/2159-8290.CD-20-1109](https://cancerdiscovery.aacrjournals.org/content/early/2021/01/14/2159-8290.CD-20-1109)</span>{:.doi}
-
-
-
-### 2020
+### 2023
 
 {:.paper}
 <span>Zmat3 Is a Key Splicing Regulator in the p53 Tumor Suppression Program</span>{:.papertitle}  
