@@ -9,9 +9,7 @@ title: Publications
 Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **Ravinash Krishna Kumar**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley<br>
 bioRxiv, 2023.07.15.549155, (2023)
 
-<a href="/assests/papers/2023.07.15.549155v1.full.pdf" download></a>
-
-[PDF](/assests/papers/2023.07.15.549155v1.full.pdf)
+[PDF]<a href="/assests/papers/2023.07.15.549155v1.full.pdf" download></a>
 
 <img src ="/assets/images/2023_sonia.png">
 
