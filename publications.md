@@ -1,8 +1,6 @@
 ---
 layout: home
 title: Publications
-paginate: true
----
 
 actions:
   - label: "Get Started"
@@ -11,6 +9,9 @@ actions:
   - label: "Download"
     icon: download
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+---
+
+
 
 
 
