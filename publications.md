@@ -9,7 +9,7 @@ title: Publications
 <span>**A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease**</span>{:.papertitle}  
 <span>Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **Ravinash Krishna Kumar**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley</span>{:.authors}<br>
 <span>_bioRxiv _, 2023.07.15.549155, (2023) </span>{:.journal}  
-<span>**URL:**[https://doi.org/10.1101/2023.07.15.549155](https://doi.org/10.1101/2023.07.15.549155)</span>{:.doi}
+<span>**URL:**[https://doi.org/10.1101/2023.07.15.549155](https://doi.org/10.1101/2023.07.15.549155)</span>
 
 actions:
   - label: "Get Started"
