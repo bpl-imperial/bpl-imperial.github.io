@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Publications
-
-<span>**3D printing of microbial communities: A new platform for understanding and engineering microbiomes**</span>{:.papertitle}  
-<span>**Ravinash Krishna Kumar**, Kevin R. Foster</span>{:.authors}<br>
-<span>Microbial Biotechnology, 16, 489, (2032)</span>{:.journal}  
-<span>**URL:**[www.sciencedirect.com/science/article/pii/S1097276520307292](https://www.sciencedirect.com/science/article/pii/S1097276520307292)</span>
 ---
 
 ### Preprint
@@ -116,7 +111,6 @@ actions:
 <span>**Jose A Seoane**, Ian NM Day, Tom R Gaunt, Colin Campbell</span>{:.authors}<br>
 <span>_Bioinformatics_, 30(6):838-845, Mar. 2014</span>{:.journal}  
 <span>**URL:**[https://academic.oup.com/bioinformatics/article-abstract/30/6/838/285849](https://academic.oup.com/bioinformatics/article-abstract/30/6/838/285849)</span>{:.doi}
-
 
 
 
