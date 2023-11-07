@@ -6,13 +6,13 @@ title: Publications
 [//]:# Selected Publications
 [//]:# ---
 
-### 2021
+### Preprint
 
 {:.paper}
-<span>Inter-cellular CRISPR screens reveal regulators of cancer cell phagocytosis</span>{:.papertitle}  
-<span>Roarke A Kamber, Yoko Nishiga, Bhek Morton, Allison M Banuelos, Amira A Barkal, Felipe Vences-Catalán, Mingxin Gu, Daniel Fernandez, **Jose A Seoane**, David Yao, Katherine Liu, Sijie Lin, Kaitlyn Spees, Christina Curtis, Livnat Jerby-Arnon, Irving L Weissman, Julien Sage, Michael C Bassik</span>{:.authors}<br>
-<span>_Nature_, 597:549-554 ,, Sep. 2021</span>{:.journal}  
-<span>**URL:**[https://www.nature.com/articles/s41586-021-03879-4](https://www.nature.com/articles/s41586-021-03879-4)</span>{:.doi}
+<span>A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease</span>{:.papertitle}  
+<span>Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **Ravinash Krishna Kumar**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley</span>{:.authors}<br>
+<span>_bioRxiv _, 2023.07.15.549155, 2023 </span>{:.journal}  
+<span>**URL:**[https://doi.org/10.1101/2023.07.15.549155](https://doi.org/10.1101/2023.07.15.549155)</span>{:.doi}
 
 {:.paper}
 <span>The AMBRA1 E3 ligase adaptor regulates the stability of cyclin D</span>{:.papertitle}  
