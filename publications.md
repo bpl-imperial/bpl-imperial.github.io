@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Publications
 
 <span>**3D printing of microbial communities: A new platform for understanding and engineering microbiomes**</span>{:.papertitle}  
