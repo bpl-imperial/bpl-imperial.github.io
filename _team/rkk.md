@@ -1,5 +1,7 @@
 ---
 title: "Dr Ravinash Krishna Kumar"
+image: 
+  path: /assets/images/chocolate-chip-cookies-lg.jpg
   thumbnail: /assets/images/rkk.jpg"
 ---
 
