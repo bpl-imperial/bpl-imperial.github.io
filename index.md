@@ -10,3 +10,5 @@ introduction: |
   - Build synthetic tissues for controlling living tissues
   - Build new engineered living materials. 
 ---
+
+<img src ="/assets/images/imperiallogo.eps">
