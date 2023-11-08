@@ -15,8 +15,9 @@ bioRxiv, 2023.07.15.549155, (2023)<br>
 
 <img src ="/assets/images/2023_sonia.png">
 
+<br>
 ***
-
+<br>
 
 ### 2023
 
@@ -30,39 +31,37 @@ bioRxiv, 2023.07.15.549155, (2023)<br>
 
 <img src ="/assets/images/2023_microb.jpeg">
 
+<br>
 ***
-
+<br>
 
 ### 2022
 
 **[Modular Synthetic Tissues from 3D-Printed Building Blocks](https://doi.org/10.1002/adfm.202107773)**<br>
-Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **<u>Ravinash Krishna Kumar</u>**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley<br>
-bioRxiv, 2023.07.15.549155, (2023)
-<a href="/assets/papers/2023.07.15.549155v1.full.pdf" download>
+Alessandro Alcinesio, Idil Cazimoglu, Gabriella Raye Kimmerly, Vanessa Restrepo Schild, **<u>Ravinash Krishna Kumar</u>**, Hagan Bayley<br>
+**Advanced Functional Materials**, 32, 2107773, (2022)
+
+<a href="/assets/papers/Alcinesio et al. - 2022 - Modular Synthetic Tissues from 3D-Printed Building.pdf" download>
   <img src="/assets/images/pdf.svg" width="30" height="30">
 </a>
 
-<img src ="/assets/images/2023_sonia.png">
+<img src ="/assets/images/2022_advfunc.jpg">
 
-{:.paper}
-<span>Quantitative evidence for early metastatic seeding in colorectal cancer</span>{:.papertitle}  
-<span>Zheng Hu, Jie Ding, Zhicheng Ma, Ruping Sun, **Jose A Seoane**, J Scott Shaffer, Carlos J Suarez, Anna S Berghoff, Chiara Cremolini, Alfredo Falcone, Fotios Loupakis, Peter Birner, Matthias Preusser, Heinz-Josef Lenz, Christina Curtis</span>{:.authors}<br>
-<span>_Nature genetics_, 51(7):1113-1122, Jul. 2019</span>{:.journal}  
-<span>**URL:**[www.nature.com/articles/s41588-019-0423-x](https://www.nature.com/articles/s41588-019-0423-x)</span>{:.doi}
+**[Functional Multivesicular Structures with Controlled Architecture from 3D‐Printed Droplet Networks]( https://doi.org/10.1002/syst.202100036)**<br>
+Alessandro Alcinesio, **<u>Ravinash Krishna Kumar</u>**, Prof. Hagan Bayley<br>
+**ChemSystemsChem**, 4, e202100036, (2022)
 
-{:.paper}
-<span>Dynamics of breast-cancer relapse reveal late-recurring ER-positive genomic subgroups</span>{:.papertitle}  
-<span>Oscar M Rueda, Stephen-John Sammut, **Jose A Seoane**, Suet-Feung Chin, Jennifer L Caswell-Jin, Maurizio Callari, Rajbir Batra, Bernard Pereira, Alejandra Bruna, H Raza Ali, Elena Provenzano, Bin Liu, Michelle Parisien, Cheryl Gillett, Steven McKinney, Andrew R Green, Leigh Murphy, Arnie Purushotham, Ian O Ellis, Paul D Pharoah, Cristina Rueda, Samuel Aparicio, Carlos Caldas, Christina Curtis</span>{:.authors}<br>
-<span>_Nature_, 567(7748):399-404, Mar. 2019</span>{:.journal}  
-<span>**URL:**[www.nature.com/articles/s41586-019-1007-8](https://www.nature.com/articles/s41586-019-1007-8)</span>{:.doi}
+<a href="/assets/papers/Alcinesio et al. - 2022 - Functional Multivesicular Structures with Controll.pdf" download>
+  <img src="/assets/images/pdf.svg" width="30" height="30">
+</a>
 
-{:.paper}
-<span>Assessment of ERBB2/HER2 status in HER2-equivocal breast cancers by FISH and 2013/2014 ASCO-CAP guidelines</span>{:.papertitle}  
-<span>Michael F Press, **Jose A Seoane**, Christina Curtis, Emmanuel Quinaux, Roberta Guzman, Guido Sauter, Wolfgang Eiermann, John R Mackey, Nicholas Robert, Tadeusz Pienkowski, John Crown, Miguel Martin, Vicente Valero, Valerie Bee, Yanling Ma, Ivonne Villalobos, Dennis J Slamon</span>{:.authors}<br>
-<span>_JAMA oncology_, 5(3):366-375, Mar. 2019</span>{:.journal}  
-<span>**URL:**[jamanetwork.com/journals/jamaoncology/article-abstract/2718266](https://jamanetwork.com/journals/jamaoncology/article-abstract/2718266)</span>{:.doi}
+<img src ="/assets/images/2022_chemsystemschem.jpg">
 
-### 2018
+<br>
+***
+<br>
+
+### 2021
 
 {:.paper}
 <span>The chromatin accessibility landscape of primary human cancers</span>{:.papertitle}  
