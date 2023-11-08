@@ -1,5 +1,5 @@
 ---
-title: "Dr Ravinash Krishna Kumar"
+title: Dr Ravinash Krishna Kumar
 image: 
   path: /assets/images/
   thumbnail: /assets/images/rkk.jpg
