@@ -21,9 +21,9 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Ravinash Krishna Kumar
-  twitter: @ravinash_kk
+  twitter: ravinash_kk
   picture: /assets/images/
-twitter_username: @ravinash_kk
+twitter_username: ravinash_kk
 github_username:
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
