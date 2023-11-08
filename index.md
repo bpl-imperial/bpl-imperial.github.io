@@ -11,4 +11,4 @@ introduction: |
   - Build new engineered living materials. 
 ---
 
-<img src ="/assets/images/imperiallogo.eps">
+<img src ="/assets/images/imperiallogo.svg">
