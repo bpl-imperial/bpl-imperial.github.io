@@ -10,8 +10,8 @@ introduction: |
   - Build new microbiome models for understanding host-microbial community relationship
   - Build synthetic tissues for controlling living tissues
   - Build new engineered living materials. 
-  
-  We are generously supported by:
 ---
+
+We are generously supported by:
 
 <img src ="/assets/images/imperiallogo.svg" width="208.5" height="75.5"> <img src ="/assets/images/EPSRC_logo.png" width="239.625" height="60">
