@@ -1,8 +1,7 @@
 ---
 title: "Dr Ravinash Krishna Kumar"
-image: 
-  path: /assets/images/
-  thumbnail: /assets/images/rkk.jpg"
+
+  thumbnail: /assets/images/rkk.jpg
 ---
 
 **Group Leader**, EPSRC Open Fellow and Lecturer (Assistant Professor) in Synthetic Biology 
