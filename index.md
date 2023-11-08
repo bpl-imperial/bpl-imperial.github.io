@@ -14,4 +14,4 @@ introduction: |
   We are generously supported by:
 ---
 
-<img src ="/assets/images/imperiallogo.svg" width="104.25" height="37.75">
+<img src ="/assets/images/imperiallogo.svg" width="208.5" height="75.5"> <img src ="/assets/images/imperiallogo.svg" width="208.5" height="75.5">
