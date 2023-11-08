@@ -71,7 +71,7 @@ Alessandro Alcinesio, **<u>Ravinash Krishna Kumar</u>**, Prof. Hagan Bayley<br>
 
 ### 2021
 
-**[Nanaerobic imaging breathes new life into gut microbiota microscopy](https://doi.org/10.1002/adfm.202107773)**<br>
+**[Nanaerobic imaging breathes new life into gut microbiota microscopy](https://doi.org/10.1038/s41579-021-00523-w)**<br>
 Martin T Jahn, **<u>Ravinash Krishna Kumar</u>**<br>
 **Nature Reviews Microbiology**, 19, 224, (2021)
 
@@ -83,14 +83,14 @@ Martin T Jahn, **<u>Ravinash Krishna Kumar</u>**<br>
 
 <br>
 
-**[Nanaerobic imaging breathes new life into gut microbiota microscopy](https://doi.org/10.1002/adfm.202107773)**<br>
-Martin T Jahn, **<u>Ravinash Krishna Kumar</u>**<br>
-**Nature Reviews Microbiology**, 19, 224, (2021)
+**[Droplet printing reveals the importance of micron-scale structure for bacterial ecology](https://doi.org/10.1038/s41467-021-20996-w)**<br>
+**<u>Ravinash Krishna Kumar</u>**, Thomas A. Meiller-Legrand, Alessandro Alcinesio, Diego Gonzalez, Despoina A. I. Mavridou, Oliver J. Meacock, William P. J. Smith, Linna Zhou, Wook Kim, Gökçe Su Pulcu, Hagan Bayley, Kevin R. Foster<br>
+**Nature Communications**, 12, 857, (2021)
 
-<a href="/assets/papers/Jahn and Krishna Kumar - 2021 - Nanaerobic imaging breathes new life into gut micr.pdf" download>
+<a href="/assets/papers/Krishna Kumar et al. - 2021 - Droplet printing reveals the importance of micron-.pdf" download>
   <img src="/assets/images/pdf.svg" width="30" height="30">
 </a>
 
-<img src ="/assets/images/2021_natrevmicro.png">
+<img src ="/assets/images/2021_natcommun.png">
 
 <br>
