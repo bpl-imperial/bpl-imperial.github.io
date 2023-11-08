@@ -1,8 +1,8 @@
 ---
-title: Jorin Rexeinger
-image:
-    path: 
-    thumbnail: /assets/images/rkk.jpg
+title: Jorin Riexinger
+image: 
+  path: /assets/images/saf.png 
+    thumbnail: /assets/images/jr.jpeg
 ---
 
 **Visiting PhD researcher**, DPhill researcher at the University of Oxford, Friedrich Naumann Foundation for Freedom Doctoral Scholar
