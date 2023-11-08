@@ -94,3 +94,21 @@ Martin T Jahn, **<u>Ravinash Krishna Kumar</u>**<br>
 <img src ="/assets/images/2021_natcommun.png">
 
 <br>
+
+***
+
+<br>
+
+### 2020
+
+**[Controlled packing and single-droplet resolution of 3D-printed functional synthetic tissues](https://doi.org/10.1038/s41467-020-15953-y)**<br>
+Alessandro Alcinesio, Oliver J Meacock, Rebecca G Allan, Carina Monico, Vanessa Restrepo Schild, Idil Cazimoglu, Matthew T Cornall, **<u>Ravinash Krishna Kumar</u>**, Hagan Bayley<br>
+**Nature Communications**, 11, 2105, (2020)
+
+<a href="/assets/papers/Alcinesio et al. - 2020 - Controlled packing and single-droplet resolution o,pdf" download>
+  <img src="/assets/images/pdf.svg" width="30" height="30">
+</a>
+
+<img src ="/assets/images/2020_natcommun.gif">
+
+<br>
