@@ -1,6 +1,7 @@
 ---
 title: "Dr Ravinash Krishna Kumar"
-
+image: 
+  path: /assets/images/rkk.jpg
   thumbnail: /assets/images/rkk.jpg
 ---
 
