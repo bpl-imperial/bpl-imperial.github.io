@@ -20,7 +20,7 @@ description: Imperial College London
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: 
+  name: Ravinash Krishna Kumar
   twitter: ravinash_kk
   picture: /assets/images/
 twitter_username: ravinash_kk
@@ -89,7 +89,7 @@ defaults:
     values:
       layout: post
       read_time: true
-  # _recipes
+  # _team
   - scope:
       path: "_team"
       type: team
