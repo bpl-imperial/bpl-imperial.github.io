@@ -16,7 +16,9 @@ bioRxiv, 2023.07.15.549155, (2023)<br>
 <img src ="/assets/images/2023_sonia.png">
 
 <br>
+
 ***
+
 <br>
 
 ### 2023
@@ -32,7 +34,9 @@ bioRxiv, 2023.07.15.549155, (2023)<br>
 <img src ="/assets/images/2023_microb.jpeg">
 
 <br>
+
 ***
+
 <br>
 
 ### 2022
@@ -58,7 +62,9 @@ Alessandro Alcinesio, **<u>Ravinash Krishna Kumar</u>**, Prof. Hagan Bayley<br>
 <img src ="/assets/images/2022_chemsystemschem.jpg">
 
 <br>
+
 ***
+
 <br>
 
 ### 2021
