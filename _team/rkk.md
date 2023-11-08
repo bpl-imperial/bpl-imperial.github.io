@@ -1,6 +1,6 @@
 ---
 title: Dr Ravinash Krishna Kumar
-
+image: 
   thumbnail: /assets/images/rkk.jpg
 ---
 
