@@ -14,7 +14,9 @@ Watch this space!
 ### Postgraduate and undergraduate students 
 
 **Open PhD studentship in anaerobic 3D printing of gut bacterial communities**
-We have one open PhD studentship to start ASAP (but with flexbility) funded by Imperial College London. The aim is to use our 3D printing technology to understand structure function relationships in gut microbiota communites. This project is highly interdisciplinary – you will gain expertise in 3D printing, method development, materials science, microbiology, and microbial ecology. For information and how to apply click here.
+We have one open PhD studentship to start ASAP (but with flexbility) funded by Imperial College London. The aim is to use our 3D printing technology to understand structure function relationships in gut microbiota communites. This project is highly interdisciplinary – you will gain expertise in 3D printing, method development, materials science, microbiology, and microbial ecology. 
+
+For advert and to apply, [click here](2023_phd_advert){:target="_blank"}.
 
 Deadline: January 12th 2024, where we will then shortlist candidates for interviews.
 
