@@ -1,7 +1,6 @@
 ---
 layout: page
-title: PhD Postion @ Imperial College London
-sub_title: in anerobic 3D printing of gut bacterial communities
+sub_title: PhD Postion in anerobic 3D printing of gut bacterial communities
 ---
 <img src ="/assets/images/imperiallogo.svg" width="417" height="151"> 
 
@@ -11,10 +10,13 @@ sub_title: in anerobic 3D printing of gut bacterial communities
 ***
 
 ### Key details
-3.5-year funded PhD position<br> 
-Lead Supervisor Dr. Ravinash Krishna Kumar<br>
+***3.5-year funded PhD position***<br> 
+Lead Supervisor: Dr. Ravinash Krishna Kumar<br>
 Department: [Department of Infectious Disease](https://www.imperial.ac.uk/infectious-disease/){:target="_blank"}<br>
 Location: Sir Alexander Flemming Building, Imperial College London, London, UK 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19870.70336834236!2d-0.1971797664784239!3d51.49784171140178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876055ccaed341f%3A0x4327fb85b374d5e3!2sSir%20Alexander%20Fleming%20Building!5e0!3m2!1sen!2suk!4v1699461451581!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
 
 ***
 
@@ -81,8 +83,6 @@ Our research group prioritises a healthy research culture, collaboration, and fl
 
 Imperial College is a hub for the advancement of synthetic biology and microbiome sciences. The successful student will be positioned to take advantage of the Centre for Synthetic Biology and Innovation and the London BioFoundry, along with the Department’s close ties with clinical scientists across the Faculty of Medicine and researchers in the Life Sciences and Bioengineering departments. The Department provides a well-developed teaching and support network for PhD students, and the research project will be pursued in the Sir Alexander Flemming Building at the vibrant South Kensington Campus in central London.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19870.70336834236!2d-0.1971797664784239!3d51.49784171140178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876055ccaed341f%3A0x4327fb85b374d5e3!2sSir%20Alexander%20Fleming%20Building!5e0!3m2!1sen!2suk!4v1699461451581!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<br>
 
 <img src ="/assets/images/saf/atrium.jpg"> 
 
