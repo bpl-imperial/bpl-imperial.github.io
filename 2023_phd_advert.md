@@ -1,6 +1,6 @@
 ---
 layout: page
-sub_title: PhD Postion in anerobic 3D printing of gut bacterial communities
+alt title: PhD Postion in anerobic 3D printing of gut bacterial communities
 ---
 <img src ="/assets/images/imperiallogo.svg" width="417" height="151"> 
 
@@ -71,7 +71,7 @@ This project is highly interdisciplinary – you will gain expertise in 3D print
 
 ***
 
-### Cellular Control Lab (visit our group webpage [here](mpl-group.https://mpl-group.github.io/){:target="_blank"} for more information)
+### Microbiome Printing Lab (visit our group webpage [here](mpl-group.https://mpl-group.github.io/){:target="_blank"} for more information)
 
 Our research group focuses on building tractable gut microbiome models using 3D printing and flow systems. With this work, we hope to set a new standard for in vitro models of our gut microbiome, where we will be able to image in real time the development of gut bacterial communities (which is currently not possible when using mouse models). To achieve these objectives, we will collaborate with [Professor Laurie Comstock (University of Chicago)](https://comstocklab.uchicago.edu/){:target="_blank"} who is a world-expert in Bacteroides molecular biology, and with [Professor Kevin Foster (University of Oxford)](https://zoo-kfoster.zoo.ox.ac.uk/){:target="_blank"} who is world-expert in microbial ecology and evolution.
 
