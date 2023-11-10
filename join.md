@@ -14,11 +14,11 @@ Watch this space!
 ### Postgraduate and undergraduate students 
 
 **Open PhD studentship in anaerobic 3D printing of gut bacterial communities**
-We have one open PhD studentship to start from Feb 2024 funded by Imperial College London. The aim is to use our 3D printing technology to understand structure function relationships in gut microbiota communites.
+We have one open PhD studentship to start from Feb 2024 funded by Imperial College London. The aim is to use our 3D printing technology to understand structure function relationships in gut bacterial communites.
 
 ***For advert and to apply, [click here](2023_phd_advert){:target="_blank"}.***
 
 ***Deadline: January 12th 2024, where we will then shortlist candidates for interviews.***
 
-Informal enquires are most welcome. Please contact [Dr Ravinash Krishna Kumar](<ravinash.kumar@imperial.ac.uk>).
+Informal enquires are most welcome. Please contact Dr Ravinash Krishna Kumar (<ravinash.kumar@imperial.ac.uk>).
 
