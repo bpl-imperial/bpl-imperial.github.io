@@ -74,7 +74,7 @@ Informal enquiries are most welcome via email, video calling, and lab visits. Pl
 ***
 
 ### Eligibiltiy
-The studentship is funded by the Department of Infectious Diseases, Faculty of Medicine for 3.5 year ***home ([fee-status](https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/fee-status/){:target="_blank"}) PhD studentship***, which includes tuition fees, bursary commensurate with UKRI rates and £5,000 pa for research and training support. 
+The studentship is funded by the Department of Infectious Diseases, Faculty of Medicine for 3.5 year ***home ([fee-status](https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/fee-status/){:target="_blank"}) PhD studentship***, which includes tuition fees, bursary commensurate with UKRI rates (£20,622 pa tax free) and £5,000 pa for research and training support. 
 
 Applicants must have or expect to gain a First or Upper Second class undergraduate degree in Synthetic Biology, Systems Biology, Molecular Biology, Microbiology or other related field. A Masters Degree is desirable but not essential. Applicants are also required to meet [Imperial College’s English language requirements](https://www.imperial.ac.uk/study/ug/apply/requirements/english/){:target="_blank"}
 
