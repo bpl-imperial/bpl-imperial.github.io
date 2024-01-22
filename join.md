@@ -27,7 +27,7 @@ Watch this space!
 Imperial has fully funded Preseidential scholarships with full funding for tuition fees,
 a, stipend of £25,150 (2024-25 rate) per annum to assist with living costs, and consumables fund of £2,000 per annum for the first 3 years of study.
 
-For more information [click here] (https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/){:target="_blank"}.
+For more information [click here](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/){:target="_blank"}.
 
 ***Deadline: Submission deadline of March 4th 2024, where then Imperial shortlists for candidates***
 
