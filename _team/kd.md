@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/kd.jpg
 ---
 
-**MRes researcher**, MRes researcher at Imperial College London, Systems and Synthetic Biology
+**PhD researcher**, PhD researcher at Imperial College London, EPSRC CDT in BioDesign Engineering
 
 <br>
 
