@@ -18,7 +18,7 @@ Watch this space!
 
 ### Postgraduate and undergraduate students 
 
-**ICB-PhD scholarship (home and international students)**
+** Open ICB-PhD position (home and international students)**
 
 We have a fully funded 4-year Phd position funded by the [Insitute for Chemical Biology](https://www.imperial.ac.uk/chemical-biology/){:target="_blank"} at Imperial College London with full funding for tuition fees and a stipend of £21,237 (2024-25 rate). This project will be co-supervised with [Yuval Elani](https://www.elanigroup.org/){:target="_blank"} and [Karen Polizzi](https://sites.google.com/site/polizzilab/home){:target="_blank"}.
 
