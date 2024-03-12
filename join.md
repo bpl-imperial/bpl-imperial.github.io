@@ -5,7 +5,7 @@ title: Join
 
 ### Postoctoral Research Associates and Fellows
 
-**Closed PDRA position in 3D bioprinting and device engineering***
+**Closed PDRA position in 3D bioprinting and device engineering**
 We have a 3 year PDRA position (with potential to extend for another year) to start from March 2024. The aim is to develop 3D printing and transwell techonolgies to create new co-culture systems of gut bacteria and the host. This is funded by our [EPSRC Open Fellowship](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X010961/1) on 'Building the gut microbiome'{:target="_blank"}. 
 
 ***Status: shortlisting***
