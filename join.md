@@ -17,7 +17,7 @@ We currently have two oppurtunities to apply to join the group as a PhD research
 
 [President's Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/){:target="_blank"}
 
-**Deadline: 4th of November 2024, 9th of Janaury 2024, 10 of March 2025**
+**Deadline: 4th of November 2024, 9th of Janaury 2025, and 10th of March 2025**
 
 [MultiSci MRC DTP](https://www.imperial.ac.uk/multisci-mrc-dtp/){:target="_blank"}
 
