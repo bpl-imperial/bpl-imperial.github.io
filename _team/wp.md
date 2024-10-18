@@ -14,7 +14,7 @@ image:
 <br>
 
 
-<img src ="/assets/images/kd.jpg" width="444" heigth="444">
+<img src ="/assets/images/" width="444" heigth="444">
 
 
 <br>

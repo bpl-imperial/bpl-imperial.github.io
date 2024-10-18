@@ -2,7 +2,7 @@
 title: Rasika Elangovan
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/nk.jpg
+  thumbnail: /assets/images/
 ---
 
 **MRes researcher**, MRes researcher at Imperial College London, Biomedical Research
@@ -14,7 +14,7 @@ image:
 <br>
 
 
-<img src ="/assets/images/nk.jpg" width="444" heigth="444">
+<img src ="/assets/images/" width="444" heigth="444">
 
 
 <br>
