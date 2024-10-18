@@ -13,4 +13,14 @@ Watch this space!
 
 ### Postgraduate and undergraduate students 
 
+We currently have two oppurtunities to apply to join the group as a PhD researcher:
+
+[Presidents Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/){:target="_blank"}
+
+Deadline: 4th of November 2024, 9th of Janaury 2024, 10 of March 2025
+
+[MultiSci MRC DTP](https://www.imperial.ac.uk/multisci-mrc-dtp/){:target="_blank"}
+
+Deadline: 21st of November 2024
+
 Informal enquiries are wellcome, please contact (<r.krishnakumar@imperial.ac.uk>).
