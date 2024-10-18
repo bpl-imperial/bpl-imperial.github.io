@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-alt_title: "Microbiome Printing Lab"
+alt_title: "BioPattern Lab"
 sub_title: "Imperial College London"
 image: /assets/images/printing.gif
 introduction: |
