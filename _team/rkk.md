@@ -1,11 +1,11 @@
 ---
-title: Dr Ravinash Krishna Kumar
+title: Ravinash Krishna Kumar
 image: 
   path: /assets/images/saf.png
   thumbnail: /assets/images/rkk.jpg
 ---
 
-**Group Leader**, EPSRC Open Fellow and Lecturer (Assistant Professor) in Synthetic Biology 
+**Group Leader**, EPSRC Open Fellow and Lecturer (Assistant Professor) in Synthetic Biology at Imperial College London
 
 <br>
 
