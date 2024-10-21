@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/
 ---
 
-**Research Associate**, Research Associate at Imperial College London
+**Postdoctoral Research Associate**, Postdoctoral Research Assocaite at Imperial College London, funded by EPSRC 
 
 <br>
 
