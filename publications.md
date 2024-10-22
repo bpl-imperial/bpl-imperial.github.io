@@ -5,6 +5,15 @@ title: Publications
 
 ### Preprint
 
+**[Multifunctional Systems in Synthetic Biology: Single-Stranded DNA Signaling for Precise Control of Gene Activation](https://doi.org/10.1101/2024.10.20.619289){:target="_blank"}**
+Brian Ng, Yuying Ding, Matthew Cornall, **<u>Ravinash Krishna Kumar</u>**, Yujia Qing, Hagan Bayley<br>
+bioRxiv, 2024.10.20.619289, (2024)<br>
+
+<a href="/assets/papers/2023.07.15.549155v1.full.pdf" download>
+  <img src="/assets/images/pdf.svg" width="30" height="30">
+</a>
+
+
 **[A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease](https://doi.org/10.1101/2023.07.15.549155){:target="_blank"}**
 Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **<u>Ravinash Krishna Kumar</u>**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley<br>
 bioRxiv, 2023.07.15.549155, (2023)<br>
