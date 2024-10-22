@@ -9,7 +9,7 @@ title: Publications
 Brian Ng, Yuying Ding, Matthew Cornall, **<u>Ravinash Krishna Kumar</u>**, Yujia Qing, Hagan Bayley<br>
 bioRxiv, 2024.10.20.619289, (2024)<br>
 
-<a href="/assets/papers/2023.07.15.549155v1.full.pdf" download>
+<a href="/assets/papers/2024.10.20.619289v1.full.pdf" download>
   <img src="/assets/images/pdf.svg" width="30" height="30">
 </a>
 
