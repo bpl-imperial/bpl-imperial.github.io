@@ -2,7 +2,7 @@
 title: Soo Mei Chee
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/
+  thumbnail: /assets/images/smc.jpg
 ---
 
 **Laboratory Manager**, Laboratory Manager for the Section of Structural and Synthetic Biology at Imperial College London
