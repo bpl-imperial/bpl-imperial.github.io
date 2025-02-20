@@ -1,5 +1,5 @@
 ---
-title: Julia Purrinos
+title: Julia Purrinos De Oliveira
 image: 
   path: /assets/images/saf.png 
   thumbnail: /assets/images/jp.jpg
