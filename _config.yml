@@ -80,6 +80,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+research:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # _posts
