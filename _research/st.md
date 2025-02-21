@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/synthetictissue.png
 ---
 
-**PhD researcher**, PhD researcher at Imperial College London
+
 
 <br>
 
