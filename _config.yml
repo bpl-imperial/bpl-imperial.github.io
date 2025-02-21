@@ -95,3 +95,9 @@ defaults:
       type: team
     values:
       layout: post
+# _research
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: post
