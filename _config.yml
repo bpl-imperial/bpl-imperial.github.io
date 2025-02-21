@@ -79,8 +79,7 @@ collections:
   team:
     output: true
     permalink: /:collection/:path/
-
-research:
+  research:
     output: true
     permalink: /:collection/:path/
 
