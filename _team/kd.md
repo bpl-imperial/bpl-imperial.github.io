@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/kd.jpg
 ---
 
-**PhD researcher**, PhD researcher at Imperial College London, EPSRC CDT in BioDesign Engineering
+**PhD student**, PhD student at Imperial College London, EPSRC CDT in BioDesign Engineering
 
 <br>
 

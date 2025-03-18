@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/
 ---
 
-**PhD researcher**, PhD researcher at Imperial College London
+**PhD student**, PhD student at Imperial College London, funded by the Department of Infectious Disease
 
 <br>
 

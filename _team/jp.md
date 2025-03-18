@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/jp.jpg
 ---
 
-**MRes researcher**, MRes researcher at Imperial College London, Systems and Synthetic Biology
+**MRes student**, MRes student at Imperial College London, Systems and Synthetic Biology
 
 <br>
 

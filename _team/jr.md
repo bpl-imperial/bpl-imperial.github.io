@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/jr.jpg
 ---
 
-**Visiting PhD researcher**, DPhil researcher at the University of Oxford, Friedrich Naumann Foundation for Freedom Doctoral Scholar
+**Visiting PhD student**, DPhil student at the University of Oxford, Friedrich Naumann Foundation for Freedom Doctoral Scholar
 
 <br>
 
