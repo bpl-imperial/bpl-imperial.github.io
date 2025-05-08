@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/
 ---
 
-**Laboratory Technichian**, Laboratory Manager for the Section of Structural and Synthetic Biology at Imperial College London
+**Laboratory Technician**, Laboratory Technician for the Section of Structural and Synthetic Biology at Imperial College London
 
 <br>
 
