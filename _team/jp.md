@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/jp.jpg
 ---
 
-**MRes student**, MRes student at Imperial College London, Systems and Synthetic Biology
+**MRes student**, MRes student at Imperial College London, [Systems and Synthetic Biology](https://www.imperial.ac.uk/study/courses/postgraduate-taught/systems-synthetic-biology/){:target="_blank"}
 
 <br>
 

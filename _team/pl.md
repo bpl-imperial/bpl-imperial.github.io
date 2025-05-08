@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/pl.jpg
 ---
 
-**MRes student**, MRes student at Imperial College London, Biomedical Research
+**MRes student**, MRes student at Imperial College London, [Biomedical Research](https://www.imperial.ac.uk/study/courses/postgraduate-taught/biomedical-research/){:target="_blank"}
 
 <br>
 
