@@ -24,7 +24,7 @@ bioRxiv, 2024.10.20.619289, (2024)<br>
 ### 2025
 
 **[High-Resolution Patterned Delivery of Chemical Signals From 3D-Printed Picoliter Droplet Networks](https://doi.org/10.1002/adma.202412292){:target="_blank"}**
-**<u>Jorin Rexinger**<u>, Thomas Caganek,  Xingzao Wang, Yutong Yin, Khoa Chung, Linna Zhou, Hagan Bayley, <u>Ravinash Krishna Kumar</u>**<br>
+**<u>Jorin Rexinger</u>**, Thomas Caganek,  Xingzao Wang, Yutong Yin, Khoa Chung, Linna Zhou, Hagan Bayley, **<u>Ravinash Krishna Kumar</u>**<br>
 **Advanced Materials**, 2412292, (2025)
 
 <a href="/assets/papers/Riexinger et al. - High-Resolution Patterned Delivery of Chemical Sig.pdf" download>
