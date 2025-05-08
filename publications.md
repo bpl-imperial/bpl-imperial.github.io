@@ -23,6 +23,17 @@ bioRxiv, 2024.10.20.619289, (2024)<br>
 
 ### 2025
 
+**[High-Resolution Patterned Delivery of Chemical Signals From 3D-Printed Picoliter Droplet Networks](https://doi.org/10.1002/adma.202412292){:target="_blank"}**
+**<u>Jorin Rexinger**<u>, Thomas Caganek,  Xingzao Wang, Yutong Yin, Khoa Chung, Linna Zhou, Hagan Bayley, <u>Ravinash Krishna Kumar</u>**<br>
+**Advanced Materials**, 2412292, (2025)
+
+<a href="/assets/papers/Riexinger et al. - High-Resolution Patterned Delivery of Chemical Sig.pdf" download>
+  <img src="/assets/images/pdf.svg" width="30" height="30">
+</a>
+
+<img src ="/assets/images/2025_jorin.png">
+
+<br>
 **[A 3D microtumour system that faithfully represents ovarian cancer minimal residual disease](https://doi.org/10.1002/adhm.202404072){:target="_blank"}**
 Xingyun Yang, Mara Artibani, Yongcheng Jin, Aneesh Aggarwal, Yujia Zhang, Sandra Muñoz-Galvan, Ellina Mikhailova, Lena Rai, Nobina Mukherjee, **<u>Ravinash Krishna Kumar</u>**, Ashwag Albukhari, Linna Zhou, Ahmed Ashour Ahmed, Hagan Bayley<br>
 **Advanced Healthcare Materials**, 2404072, (2025)
