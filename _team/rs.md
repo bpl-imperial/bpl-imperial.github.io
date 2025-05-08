@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/rs.jpg
 ---
 
-**PhD student**, PhD student at Imperial College London, funded by the [EPSRC CDT in Chemical Biology]https://www.imperial.ac.uk/chemical-biology/cdt/){:target="_blank"} and the [NIHR Imperial Biomedical Research Centre](https://imperialbrc.nihr.ac.uk){:target="_blank"} 
+**PhD student**, PhD student at Imperial College London, funded by the [EPSRC CDT in Chemical Biology](https://www.imperial.ac.uk/chemical-biology/cdt/){:target="_blank"} and the [NIHR Imperial Biomedical Research Centre](https://imperialbrc.nihr.ac.uk){:target="_blank"} 
 
 <br>
 
