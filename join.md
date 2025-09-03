@@ -3,6 +3,9 @@ layout: page
 title: Join
 ---
 
+### Recruitment statement
+We know that great science comes from different perspectives. Our team includes people from all sorts of backgrounds, and that’s something we really value. We're always looking for curious, motivated folks who share our excitement for doing meaningful science—no matter where they’re coming from. If that sounds like you, you’ll fit right in here. We’re committed to creating a place where everyone feels welcome, supported, and treated fairly. That means no discrimination, equal opportunities for all, and a genuinely inclusive environment. We encourage people to apply regardless of age, background, disability, gender identity, sexual orientation, race, religion, or family circumstances.
+
 ### Postoctoral Research Associates and Fellows
 
 If you're interested in joining the lab as a postdoctoral researcher, please email your CV to Ravinash. We welcome motivated scientists with a strong research vision and encourage applications from those interested in pursuing independent projects.
@@ -30,13 +33,32 @@ Funded opportunities from research grants will be advertised here when available
 
 ***
 
-### Postgraduate and undergraduate students 
+### Postgraduate students 
 
-We currently have one oppurtunitiy to apply to join the group as a PhD researcher:
+We are always interested in hearing from motivated scientists who are keen to join the group as PhD student, MRes, or undergraduate research project. If you're enthusiastic about our research and would like to explore opportunities to work with us, please get in touch.
 
-[President's Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/){:target="_blank"}
+When fully funded PhD positions are available, they will be listed below. However, if you're interested in applying for external funding in collaboration with Ravinash, we welcome you to reach out to discuss potential applications. Please send a CV and short paragraph on your interests. There may also be internal departmental PhD funding available for candidates—contact us for more information.
 
-**Deadline: 10th of March 2025**
+External PhD funding opportunities we are aware of:
 
+[MultiSci MRC DTP](https://www.imperial.ac.uk/multisci-mrc-dtp/){:target="_blank"} – any student
 
-Informal enquiries are wellcome, please contact (<r.krishnakumar@imperial.ac.uk>).
+[President's Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/){:target="_blank"} – home student
+
+[CSC Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/csc/){:target="_blank"} – student must hold a PR Chinese passport
+
+[Marshall Scholar](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/ims/#:~:text=Imperial%20Marshall%20Scholarships%20are%20awarded%20to%20scholars%20with%20a%20high,from%20across%20the%20United%20States.) -{:target="_blank"} – student must a US citizen
+
+[Boehringer Ingelheim Fonds (BIF) fellowships](https://www.bifonds.de/fellowships-grants/phd-fellowships/who-can-apply-phd.html) – student must be an EU citizen 
+
+The group accepts MRes students from the following Imperial College programmes: 
+
+[MRes in Biomedical Research](https://www.imperial.ac.uk/study/courses/postgraduate-taught/biomedical-research/){:target="_blank"} – any student
+
+[MRes in Systems and Synthetic Biology](https://www.imperial.ac.uk/study/courses/postgraduate-taught/systems-synthetic-biology/){:target="_blank"} – any student
+
+***
+
+### Contact
+
+Informal enquiries are wellcome, please contact Ravinash: (<r.krishnakumar@imperial.ac.uk>).
