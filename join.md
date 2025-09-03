@@ -53,7 +53,7 @@ External PhD funding opportunities we are aware of:
 
 [Boehringer Ingelheim Fonds (BIF) fellowships](https://www.bifonds.de/fellowships-grants/phd-fellowships/who-can-apply-phd.html) – student must be an EU citizen 
 
-The group accepts MRes students from the following Imperial College programmes: 
+The group accepts MRes students from the following Imperial College London programmes: 
 
 [MRes in Biomedical Research](https://www.imperial.ac.uk/study/courses/postgraduate-taught/biomedical-research/){:target="_blank"} – any student
 
