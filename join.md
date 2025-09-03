@@ -33,7 +33,7 @@ Funded opportunities from research grants will be advertised here when available
 
 ***
 
-### Postgraduate students 
+### Postgraduate and undergraduate students 
 
 We are always interested in hearing from motivated scientists who are keen to join the group as PhD student, MRes, or undergraduate research project. If you're enthusiastic about our research and would like to explore opportunities to work with us, please get in touch.
 
@@ -47,7 +47,7 @@ External PhD funding opportunities we are aware of:
 
 [CSC Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/csc/){:target="_blank"} – student must hold a PR Chinese passport
 
-[Marshall Scholar](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/ims/#:~:text=Imperial%20Marshall%20Scholarships%20are%20awarded%20to%20scholars%20with%20a%20high,from%20across%20the%20United%20States.) -{:target="_blank"} – student must a US citizen
+[Marshall Scholar](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/ims/#:~:text=Imperial%20Marshall%20Scholarships%20are%20awarded%20to%20scholars%20with%20a%20high,from%20across%20the%20United%20States.){:target="_blank"} – student must a US citizen
 
 [Boehringer Ingelheim Fonds (BIF) fellowships](https://www.bifonds.de/fellowships-grants/phd-fellowships/who-can-apply-phd.html) – student must be an EU citizen 
 
