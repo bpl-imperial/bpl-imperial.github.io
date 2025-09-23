@@ -5,6 +5,8 @@ title: Join
 
 <img src ="/assets/images/2025_gp.jpeg">
 
+Group photo September 2025
+
 ### Recruitment statement
 We know that great science comes from different perspectives. Our team includes people from all sorts of backgrounds, and that’s something we really value. We're always looking for curious, motivated folks who share our excitement for doing meaningful science—no matter where they’re coming from. If that sounds like you, you’ll fit right in here. We’re committed to creating a place where everyone feels welcome, supported, and treated fairly. That means no discrimination, equal opportunities for all, and a genuinely inclusive environment. We encourage people to apply regardless of age, background, disability, gender identity, sexual orientation, race, religion, or family circumstances.
 
