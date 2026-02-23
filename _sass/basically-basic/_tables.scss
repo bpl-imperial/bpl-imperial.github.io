@@ -30,5 +30,13 @@ td {
 tr,
 td,
 th {
-  vertical-align: middle;
+  vertical-align: top;
+}
+
+.alumni-table {
+  th:nth-child(3),
+  td:nth-child(3) {
+    padding-left: 1.25em;
+    white-space: nowrap;
+  }
 }

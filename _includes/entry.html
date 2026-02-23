@@ -9,14 +9,14 @@
     <h3 class="entry-title">
       <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
     </h3>
-    {% if post.image.thumbnail %}
+    {% if post.image.thumbnail and post.image.thumbnail != "" and post.image.thumbnail != "/assets/images/" %}
       {% assign entry_image = post.image.thumbnail | relative_url | escape %}
       <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
     {% endif %}
   </header>
   <footer class="entry-meta">
     <ul>
-    {% if post.date %}
+    {% if post.date and post.collection != "team" %}
       <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
     {% endif %}
     {% if post.read_time %}

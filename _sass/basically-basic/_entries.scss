@@ -134,6 +134,15 @@
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 2em;
 
+      .entry-image {
+        width: 444px;
+        height: 444px;
+        max-width: 100%;
+        object-fit: cover;
+        display: block;
+        margin: 0 0 1rem;
+      }
+
     .entry {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -199,6 +208,15 @@
 
 
 .entry-content {
+  .team-photo {
+    width: 444px;
+    height: 444px;
+    max-width: 100%;
+    object-fit: cover;
+    display: block;
+    margin: 0 0 1rem;
+  }
+
   > p:first-child {
     font-size: 1.125em;
     line-height: 1.625;

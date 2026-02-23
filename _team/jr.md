@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/images/jr.jpg
 ---
 
-**Visiting PhD student**, DPhil student at the University of Oxford, Friedrich Naumann Foundation for Freedom Doctoral Scholar
+**Postdoctoral Research Associate**, Postdoctoral Research Associate at Imperial College London
 
 <br>
 
@@ -26,7 +26,5 @@ image:
 
 *Biography*
 
-I received a BSc in Biomimetics from the Westphalian University (Germany) in 2017. Subsequently, I graduated with an MSc in Neuroscience from the University of Freiburg (Germany) in 2020, focusing on computational neuroscience and neurotechnology. My dissertation involved both the experimental investigation of neurotoxicity in brain organoids composed of dopaminergic neurons and the development of a data mining approach for neurotoxic risk assessment at the Johns Hopkins University (USA).
-
-My DPhil is generously funded by the [Friedrich Naumann Foundation for Freedom](https://www.freiheit.org/de){:target="_blank"}
+Jorin’s interdisciplinary expertise lies in engineering, neuroscience and chemical biology. Prior to joining the BioPattern Laboratory at Imperial College London, he developed an interface between 3D-printed synthetic tissues and living cells for the precision delivery of small molecules during his PhD at the University of Oxford. At the BPL, Jorin explores novel aspects thereof, building upon previous expertise. Jorin is Postdoc representative of the Section of Structural and Synthetic Biology of the Department of Infectious Disease and sponsorship lead at the Early Career Researchers Club. 
 
