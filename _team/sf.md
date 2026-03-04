@@ -2,7 +2,7 @@
 title: Sarah Fusco
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/sf.jpg
+  thumbnail: /assets/images/SF.jpg
 ---
 
 **Visiting PhD Student**, PhD student at University of Copenhagen
@@ -14,7 +14,7 @@ image:
 <br>
 
 
-<img src ="/assets/images/sf.jpg" width="444" heigth="444">
+<img src ="/assets/images/SF.jpg" width="444" heigth="444">
 
 
 <br>
