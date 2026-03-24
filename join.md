@@ -5,12 +5,19 @@ title: Join
 
 <img src ="/assets/images/2025_gp.jpeg">
 
-Group photo September 2025
+**Group photo September 2025**
 
 ### Recruitment statement
 We know that great science comes from different perspectives. Our team includes people from all sorts of backgrounds, and that’s something we really value. We're always looking for curious, motivated folks who share our excitement for doing meaningful science—no matter where they’re coming from. If that sounds like you, you’ll fit right in here. We’re committed to creating a place where everyone feels welcome, supported, and treated fairly. That means no discrimination, equal opportunities for all, and a genuinely inclusive environment. We encourage people to apply regardless of age, background, disability, gender identity, sexual orientation, race, religion, or family circumstances.
 
 ***
+
+### Funded PhD Position
+We currently have a fully funded PhD studentship (home students only) in collaboration with [Doryan Bubeck](https://profiles.imperial.ac.uk/d.bubeck/grants) focusing on using synthetic tissues for targetted antimicrobial delivery against resistant biofilms. This is a 3.5 year funded position in the Department of Infectious Disease at Imperial as part of the [Synthetic cells as a smart-responsive healthcare technology]() cohort. More details are available [here](/PhDPosition2026.html).
+
+
+
+
 
 ### Postoctoral Research Associates and Fellows
 
@@ -67,7 +74,7 @@ The group accepts MRes students from the following Imperial College London progr
 
 ### Contact
 
-Informal enquiries are wellcome, please contact Ravinash at: (<r.krishnakumar@imperial.ac.uk>).
+Informal enquiries are welcome, please contact Ravinash at: (<r.krishnakumar@imperial.ac.uk>).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19870.70336834236!2d-0.1971797664784239!3d51.49784171140178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876055ccaed341f%3A0x4327fb85b374d5e3!2sSir%20Alexander%20Fleming%20Building!5e0!3m2!1sen!2suk!4v1699461451581!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
