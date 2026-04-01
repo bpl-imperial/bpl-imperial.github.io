@@ -7,8 +7,16 @@ sort_by: date
 sort_order: reverse
 ---
 
-{{ content }}
+{% if page.collection == "research" %}
+  <div class="entries-{{ page.entries_layout | default: 'list' }}">
+    {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
+  </div>
 
-<div class="entries-{{ page.entries_layout | default: 'list' }}">
-  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
-</div>
+  {{ content }}
+{% else %}
+  {{ content }}
+
+  <div class="entries-{{ page.entries_layout | default: 'list' }}">
+    {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
+  </div>
+{% endif %}

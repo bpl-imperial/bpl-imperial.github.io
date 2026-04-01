@@ -1,27 +1,11 @@
 ---
-title: 3D printing
+title: 3D printing and custom setups
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/3Dprinting.png
+  thumbnail: /assets/images/printing.mp4
 ---
 
 
+We build custom 3D printers for arranging our droplet networks and bioprinting applications. 
 
-<br>
-
-***
-
-<br>
-
-
-<img src ="/assets/images/" width="444" heigth="444">
-
-
-<br>
-
-***
-
-<br>
-
-
-
+More to follow soon. 

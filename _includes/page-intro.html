@@ -1,8 +1,16 @@
 <header class="intro">
   {% if page.image %}
-    {% assign intro_image = page.image.path | default: page.image | relative_url | escape %}
+    {% assign intro_media = page.image.path | default: page.image | relative_url | replace: ' ', '%20' %}
+    {% assign intro_media_lower = page.image.path | default: page.image | downcase %}
+    {% assign intro_poster = page.image.poster | default: page.image.thumbnail %}
     <div class="intro-image">
-      <img src="{{ intro_image }}" alt="{{ page.title }}">
+      {% if intro_media_lower contains ".mp4" or intro_media_lower contains ".m4v" or intro_media_lower contains ".mov" or intro_media_lower contains ".webm" %}
+        <video autoplay loop muted playsinline style="width:100%;height:auto;display:block;"{% if intro_poster %} poster="{{ intro_poster | relative_url | replace: ' ', '%20' }}"{% endif %}>
+          <source src="{{ intro_media }}" type="video/mp4">
+        </video>
+      {% else %}
+        <img src="{{ intro_media }}" alt="{{ page.title }}">
+      {% endif %}
     </div>
   {% endif %}
 
@@ -13,7 +21,7 @@
         <p class="intro-subtitle">{{ page.sub_title | markdownify | strip_html }}</p>
       {% endif %}
 
-      {% if page.date %}
+      {% if page.date and page.collection != "research" %}
         {% include author %}
         <p class="entry-meta">
           {% if author_name %}<span class="byline-item">{{ author_name | prepend: 'by ' }}</span>{% endif %}<span class="byline-item"><span class="icon">{% include icon-calendar.svg %}</span><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>{% if page.read_time %} <span class="byline-item"><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</span>{% endif %}

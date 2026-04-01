@@ -10,13 +10,20 @@
       <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
     </h3>
     {% if post.image.thumbnail and post.image.thumbnail != "" and post.image.thumbnail != "/assets/images/" %}
-      {% assign entry_image = post.image.thumbnail | relative_url | escape %}
-      <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
+      {% assign entry_media = post.image.thumbnail | relative_url | replace: ' ', '%20' %}
+      {% assign entry_media_lower = post.image.thumbnail | downcase %}
+      {% if entry_media_lower contains ".mp4" or entry_media_lower contains ".m4v" or entry_media_lower contains ".mov" or entry_media_lower contains ".webm" %}
+        <video class="entry-image u-photo" autoplay loop muted playsinline style="width:100%;height:auto;display:block;">
+          <source src="{{ entry_media }}" type="video/mp4">
+        </video>
+      {% else %}
+        <img class="entry-image u-photo" src="{{ entry_media }}" alt="" style="width:100%;height:auto;display:block;">
+      {% endif %}
     {% endif %}
   </header>
   <footer class="entry-meta">
     <ul>
-    {% if post.date and post.collection != "team" %}
+    {% if post.date and post.collection != "team" and post.collection != "research" %}
       <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
     {% endif %}
     {% if post.read_time %}
@@ -25,7 +32,7 @@
     </ul>
   </footer>
   <div class="entry-excerpt">
-    {% if post.excerpt %}
+    {% if post.excerpt and post.collection != "research" %}
       {{ post.excerpt | markdownify }}
       <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
     {% endif %}
