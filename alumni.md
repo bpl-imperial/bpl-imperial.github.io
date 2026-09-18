@@ -7,6 +7,7 @@ title: Alumni
 
 | Name                  | Position                | Year | Went on to                                                                                        |
 | ----------------------| ------------------------|------|----------------------------------------------------------------------------------------------|
+|Morgan Cheng| MRes Researcher | 2025-2026 ||
 |Louise Mitchelmore| MRes Researcher | 2025-2026 ||
 |Meixuan Li| MRes Researcher | 2025-2026 |PhD at Glasgow University|
 | Peirong Li| MRes Researcher | 2024-2025 |Scientist at Thermo Fisher|
