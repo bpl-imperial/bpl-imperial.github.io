@@ -1,11 +1,11 @@
 ---
-title: 3D printing and custom setups
+title: 3D printing, microfluidics and custom setups
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/printing.mp4
+  thumbnail: /assets/images/Printing.png
 ---
 
 
-We build custom 3D printers for arranging our droplet networks and bioprinting applications. 
+We use automation, microfluidics and custom printing setups for engineering biology.
 
-More to follow soon. 
+More on this to follow soon.

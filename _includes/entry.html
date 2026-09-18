@@ -12,25 +12,32 @@
     {% if post.image.thumbnail and post.image.thumbnail != "" and post.image.thumbnail != "/assets/images/" %}
       {% assign entry_media = post.image.thumbnail | relative_url | replace: ' ', '%20' %}
       {% assign entry_media_lower = post.image.thumbnail | downcase %}
+      {% capture entry_media_style %}width:100%;height:auto;display:block;{% if post.image.thumbnail_style %}{{ post.image.thumbnail_style }}{% endif %}{% endcapture %}
       {% if entry_media_lower contains ".mp4" or entry_media_lower contains ".m4v" or entry_media_lower contains ".mov" or entry_media_lower contains ".webm" %}
-        <video class="entry-image u-photo" autoplay loop muted playsinline style="width:100%;height:auto;display:block;">
-          <source src="{{ entry_media }}" type="video/mp4">
-        </video>
+        <div class="entry-image-frame">
+          <video class="entry-image u-photo" autoplay loop muted playsinline style="{{ entry_media_style | strip }}">
+            <source src="{{ entry_media }}" type="video/mp4">
+          </video>
+        </div>
       {% else %}
-        <img class="entry-image u-photo" src="{{ entry_media }}" alt="" style="width:100%;height:auto;display:block;">
+        <div class="entry-image-frame">
+          <img class="entry-image u-photo" src="{{ entry_media }}" alt="" style="{{ entry_media_style | strip }}">
+        </div>
       {% endif %}
     {% endif %}
   </header>
-  <footer class="entry-meta">
-    <ul>
-    {% if post.date and post.collection != "team" and post.collection != "research" %}
-      <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
-    {% endif %}
-    {% if post.read_time %}
-      <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>
-    {% endif %}
-    </ul>
-  </footer>
+  {% unless page.layout == "home" %}
+    <footer class="entry-meta">
+      <ul>
+      {% if post.date and post.collection != "team" and post.collection != "research" %}
+        <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
+      {% endif %}
+      {% if post.read_time %}
+        <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>
+      {% endif %}
+      </ul>
+    </footer>
+  {% endunless %}
   <div class="entry-excerpt">
     {% if post.excerpt and post.collection != "research" %}
       {{ post.excerpt | markdownify }}

@@ -3,6 +3,7 @@ title: Niall McIntyre
 image: 
   path: /assets/images/saf.png 
   thumbnail: /assets/images/nm.jpg
+  thumbnail_style: "transform: scale(1.12); transform-origin: center 18%;"
 ---
 
 **Postdoctoral Research Associate**, Postdoctoral Research Associate at Imperial College London

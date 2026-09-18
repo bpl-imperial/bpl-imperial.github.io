@@ -2,7 +2,7 @@
 title: Bioprinting and *in vitro* models
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/bioprinting_section.png
+  thumbnail: /assets/images/invitro.png
 ---
 
 

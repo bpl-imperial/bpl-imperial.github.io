@@ -2,7 +2,7 @@
 title: Droplet networks
 image: 
   path: /assets/images/saf.png 
-  thumbnail: assets\images\Dropletnetworks.mp4
+  thumbnail: /assets/images/Dropletnetworks_.png
 ---
 
 We use droplet networks as a platform technology to 1) build synthetic tissues for interacting with living cells, 2) studying biological membranes and membrane proteins, 3) as a versatile cell printing technology. Droplet networks are built by assembling pL-water-based droplets into an oil/lipid. Lipid monolayers form around the water-in-oil droplets, and bilayers form between the droplets when monolayers meet each other. These droplets can be arranged and structured in 3D space, by hand or in an automated fashion (3D droplet printer).

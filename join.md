@@ -12,12 +12,6 @@ We know that great science comes from different perspectives. Our team includes 
 
 ***
 
-### Funded PhD Position
-We currently have a fully funded PhD studentship (home students only) in collaboration with [Doryan Bubeck](https://profiles.imperial.ac.uk/d.bubeck/grants) focusing on using synthetic tissues for targetted antimicrobial delivery against resistant biofilms. This is a 3.5 year funded position in the Department of Infectious Disease at Imperial as part of the [Synthetic cells as a smart-responsive healthcare technology](https://www.imperial.ac.uk/medicine/study/postgraduate/epsrc-dla-studentships/research-cohorts-and-projects/) cohort. More details are available [here](/PhDposition2026.html).
-
-
-
-
 
 ### Postoctoral Research Associates and Fellows
 
@@ -69,6 +63,10 @@ The group accepts MRes students from the following Imperial College London progr
 [MRes in Biomedical Research](https://www.imperial.ac.uk/study/courses/postgraduate-taught/biomedical-research/){:target="_blank"} – any student
 
 [MRes in Systems and Synthetic Biology](https://www.imperial.ac.uk/study/courses/postgraduate-taught/systems-synthetic-biology/){:target="_blank"} – any student
+
+
+
+[MRes in Synthetic Cell Science](https://www.imperial.ac.uk/study/courses/postgraduate-taught/synthetic-cell-science/){:target="_blank"} – any student
 
 ***
 

@@ -13,3 +13,5 @@ introduction: |
   
   - build new engineered living materials
 ---
+
+![BioPattern Lab group photo](/assets/images/2025_gp.jpeg){: .align-right width="500" }
