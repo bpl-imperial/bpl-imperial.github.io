@@ -48,6 +48,9 @@ When fully funded PhD positions are available, they will be listed below. Howeve
 
 External PhD funding opportunities we are aware of:
 
+
+[HealthBRIDGE - 1+3 Year Doctoral Training Studentships](https://www.imperial.ac.uk/medicine/study/postgraduate/healthbridge/){:target="_blank"} - home student - closing date 11th Novemeber 2026 - if interested please get in touch.
+
 [MultiSci MRC DTP](https://www.imperial.ac.uk/multisci-mrc-dtp/){:target="_blank"} – any student
 
 [President's Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/){:target="_blank"} – home student
