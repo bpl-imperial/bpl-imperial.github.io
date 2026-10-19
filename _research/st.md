@@ -2,7 +2,7 @@
 title: Synthetic tissues
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/Dropletissue.png
+  thumbnail: /assets/images/droplet_tissue.png
 ---
 
 

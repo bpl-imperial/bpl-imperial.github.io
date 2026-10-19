@@ -2,7 +2,7 @@
 title: 3D printing, microfluidics and custom setups
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/Printing.png
+  thumbnail: /assets/images/stage.png
 ---
 
 

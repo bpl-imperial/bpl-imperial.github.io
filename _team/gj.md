@@ -3,7 +3,6 @@ title: Gwen Jones
 image: 
   path: /assets/images/saf.png 
   thumbnail: /assets/images/GJ.jpg
-  thumbnail_style: "transform: scale(1.12); transform-origin: center 18%;"
 ---
 
 **PhD Student**, ESPRC-funded PhD student at Imperial College London
@@ -15,7 +14,7 @@ image:
 <br>
 
 
-<img src ="/assets/images/nm.jpg" width="444" heigth="444">
+<img src ="/assets/images/GJ.jpg" width="444" heigth="444">
 
 
 <br>
