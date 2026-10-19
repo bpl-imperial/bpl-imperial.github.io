@@ -1,8 +1,8 @@
 ---
-title: Gwen Hones
+title: Gwen Jones
 image: 
   path: /assets/images/saf.png 
-  thumbnail: /assets/images/gj.jpg
+  thumbnail: /assets/images/GJ.jpg
   thumbnail_style: "transform: scale(1.12); transform-origin: center 18%;"
 ---
 
