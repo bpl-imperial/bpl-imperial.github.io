@@ -12,7 +12,7 @@
     {% if post.image.thumbnail and post.image.thumbnail != "" and post.image.thumbnail != "/assets/images/" %}
       {% assign entry_media = post.image.thumbnail | relative_url | replace: ' ', '%20' %}
       {% assign entry_media_lower = post.image.thumbnail | downcase %}
-      {% capture entry_media_style %}{% unless post.collection == "research" %}width:100%;height:auto;{% endunless %}display:block;{% if post.image.thumbnail_style %}{{ post.image.thumbnail_style }}{% endif %}{% endcapture %}
+      {% capture entry_media_style %}{% unless post.collection == "research" or post.collection == "team" %}width:100%;height:auto;{% endunless %}display:block;{% if post.image.thumbnail_style %}{{ post.image.thumbnail_style }}{% endif %}{% endcapture %}
       {% if entry_media_lower contains ".mp4" or entry_media_lower contains ".m4v" or entry_media_lower contains ".mov" or entry_media_lower contains ".webm" %}
         <div class="entry-image-frame">
           <video class="entry-image u-photo" autoplay loop muted playsinline style="{{ entry_media_style | strip }}">
